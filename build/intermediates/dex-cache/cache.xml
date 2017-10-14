@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/karis-yg/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/karis-yg/AndroidStudioProjects/Cryptocurrency/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_61514c418a97171c62d42ae5ad91a3913a32f93c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/karis-yg/.android/build-cache/deb304cc0314e0d7321ab42d8696c3afe9d1dbb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/karis-yg/AndroidStudioProjects/Cryptocurrency/app/build/intermediates/pre-dexed/debug/classes_0decc79bd5be22965ab4be2dc17040b87a4370b9.jar" />
+    </item>
+
+</items>
